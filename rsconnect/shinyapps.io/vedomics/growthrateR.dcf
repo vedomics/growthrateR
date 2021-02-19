@@ -1,0 +1,13 @@
+name: growthrateR
+title: growthrateR
+username:
+account: vedomics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3633226
+bundleId: 4219169
+url: https://vedomics.shinyapps.io/growthrateR/
+when: 1613243129.2089
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 10_29_19_clean.csv|gcdf_v1.csv|www/me.jpg
